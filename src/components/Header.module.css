@@ -1,5 +1,13 @@
 .header {
   background: url("../assets/image-hero-mobile.jpg") no-repeat;
-  background-size: 100%;
+  background-size: cover;
   min-height: 298px;
+}
+
+@media screen and (min-width: 500px) {
+  .header {
+    background: url("../assets/image-hero-desktop.jpg") no-repeat center;
+    background-size: cover;
+    min-height: 398px;
+  }
 }
