@@ -1,0 +1,10 @@
+.project-details {
+  background-color: red;
+  margin-top: -5.5rem;
+}
+
+@media screen and (min-width: 500px) {
+  .project-details {
+    margin-top: -9rem;
+  }
+}
