@@ -1,0 +1,5 @@
+.header {
+  background: url("../assets/image-hero-mobile.jpg") no-repeat;
+  background-size: 100%;
+  min-height: 298px;
+}

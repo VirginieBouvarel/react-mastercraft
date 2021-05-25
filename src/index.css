@@ -58,10 +58,12 @@ Cette classe est ajoutée sur un élément nécessaire en termes d'accessibilit�
   --color-dark-gray: hsl(0, 0%, 48%);
   --color-black: hsl(0, 0%, 0%);
   --color-white: hsl(100, 100%, 100%);
+  --color-bg-body: hsl(0, 0%, 98%);
 }
 
 body {
   font-family: var(--font-body);
   font-size: 1.6rem;
-  color: #000;
+  color: var(--color-black);
+  background-color: var(--color-bg-body);
 }
