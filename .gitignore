@@ -26,6 +26,7 @@ yarn-error.log*
 cache/
 .vscode/ 
 node_modules/
+annexes/
 
 .DS_Store
 .prettierignore

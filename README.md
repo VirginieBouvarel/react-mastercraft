@@ -1,4 +1,4 @@
-### Live version [here](https://react-mastercraft-virginiebouvarel.vercel.app).
+### Live version [here](https://react-mastercraft-virginiebouvarel.vercel.app/).
 
 # MasterCraft
 
