@@ -1,0 +1,15 @@
+.button {
+  font: inherit;
+  border: 1px solid var(--color-cyan);
+  background: var(--color-cyan);
+  color: white;
+  padding: 1.7rem 4rem;
+  cursor: pointer;
+  font-weight: bolder;
+  border-radius: 30px;
+}
+
+.button:hover {
+  background: var(--color-dark-cyan);
+  border-color: var(--color-dark-cyan);
+}
