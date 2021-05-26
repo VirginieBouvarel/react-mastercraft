@@ -1,6 +1,7 @@
 .project-details {
   background-color: red;
-  margin-top: -5.5rem;
+  max-width: 728px;
+  margin: -5.5rem auto 0;
 }
 
 @media screen and (min-width: 500px) {
